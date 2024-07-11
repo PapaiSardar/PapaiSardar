@@ -12,9 +12,9 @@
  
  🔭 I’m currently searching for an **INternShip**
  
- 🌱 I’m currently learning **Docker, RUST, MERN **
+ 🌱 I’m currently learning **Docker, ML, DEEP LEARNING **
 
-💬 Ask me about **ML, PYTHON , DEEP LEARNING... or anything [here](https://github.com/)**
+💬 Ask me about **ML, PYTHON , C... or anything [here](https://github.com/)**
 
 ⚡ Fun fact **Loading..... **
 
