@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, RUST, MERN **
 
-💬 Ask me about **ML, PYTHON , DJANGO... or anything [here](https://github.com/)**
+💬 Ask me about **ML, PYTHON , DEEP LEARNING... or anything [here](https://github.com/)**
 
 ⚡ Fun fact **Loading..... **
 
